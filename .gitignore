@@ -1,0 +1,34 @@
+# Compiled files
+*.pyc
+*.pyo
+
+# Build files
+build/
+dist/
+
+# Virtualenv files
+.Python
+
+# IDE files
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache files
+__pycache__/
+.pytest_cache/
+.tox/
+.coverage
+.cache
+
+# Temporary files
+*.log
+*.swp
+
+# Secrets
+secrets.json
+
+# Environment
+.venv/
